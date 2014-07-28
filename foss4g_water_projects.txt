@@ -1,0 +1,142 @@
+Water Management Projects with FOSS4G:
+
+International Water Management Institute, University of Moratuwa, Sri Lanka
+  Research & Monitoring
+  Evapotranspiration model
+  Road condition monitoring
+  PyWPS y Grass
+  http://www.slideshare.net/HirofumiHayashi/combining-foss4g-open-hardware-for-research-monitoring-in-southern-asia
+
+San Jose Water Company, USA
+  GIS Portal
+  GeoServer y OpenLayers
+  http://boundlessgeo.com/case-study/san-jose-water-company/
+
+SID&GRID research project, Regione Toscana, Italy
+  Decision Support System (DSS) for water resource management and planning
+  PostGIS, gvSIG, Sextante, Grass, GeoServer, Modflow
+  http://ut11.isti.cnr.it/SIDGRID/index.php/home/english
+
+North Dakota State Water Commission, USA
+  The State Water Commission regulates the use of water resources in North Dakota. Understanding the state of water resources, communicating that information to the public and scientists, and planning for future water uses requires the gathering and management of a great deal of spatial data.
+  PostGIS y MapServer
+  http://postgis.refractions.net/documentation/casestudies/northdakota/
+
+The GLOWA Volta Geoportal, Volta Basin, Africa (mainly Mali)
+  Global Change and the Hydrological Cycle
+  The GLOWA Volta Geoportal interdisciplinary GLOWA Volta Project (GVP) was launched in May 2000 to support sustainable water resource management in the riparian countries of the Volta Basin in West Africa. Scientists, students and experts from Africa and Europe develop scientifically sound Decision Support Resources for the authorities in the region.
+  GeoNetwork
+  http://131.220.109.2/geonetwork/srv/en/main.home
+
+Hydrological Map of Brandenburg, Germany
+  The Federal State of Brandenburg in Germany has published the hydro-geologic map with Mapbender as portal software.
+  Mapbender
+  http://www.geo.brandenburg.de/hyk50/
+
+Rice Creek Watershed District, USA
+  GeoMoose, OpenLayers, MapServer
+  http://rcwd.houstoneng.net/ditchviewer_public.php
+
+Klamath Watershed DSS
+  GeoMoose, OpenLayers, MapServer
+  http://gis.klamathdss.org/
+
+Middle Snake Tamarac River Watershed District
+  GeoMoose, OpenLayers, MapServer
+  http://www.mstrwd.com/geomoose/
+
+The Research Institute for Geo-hydrological Protection of Turin, Italy
+  Aerial photo archive management
+  QGIS, Sextante
+  https://qgis.org/en/site/about/case_studies/italy_turin.html
+
+Sistema de Información Territorial de la Confederación Hidrográfica del Guadalquivir, España
+  IDE-CHG geoportal provided by the Guadalquivir River Basin District for you to discover, visualize or unload any geographic information about the territory of the hydrographical demarcation.
+  gvSIG, MapServer, GeoServer, Deegree, GeoNetwork
+  http://idechg.chguadalquivir.es/geoportal/en/index.html
+
+A FOSS based webGIS for supporting integrated and sustainable water management of Red-Thai Binh rivers system (IMMR Project), Vietnam
+  The IMRR project aims at developing and promoting strategies for the sustainable management of the Red-Thai Binh Rivers System in Vietnam through coordinated decision-making and negotiation, supported by modelling and optimization tools and through capacity building of local authorities in the water sector.
+  GeoServer, OpenLayers, istSOS (Sensor Observation Service OGC)
+  http://foss4g-e.org/content/foss-based-webgis-supporting-integrated-and-sustainable-water-management-red-thai-binh
+  http://hydroinformatics.polimi.it/
+
+Water Quality Forecast And Information System Built With FLOSS Software, Romania
+  The CLEANWATER system combines information to evaluate the present level of nutrient pollution in vulnerable areas, and assesses the cost efficiency of measures that could be applied. A web interface gives decision makers a tool to create scenarios related to human activities and climate changes, send them to numerical models, and view, query and analyse the results.
+  OpenLayers, ExtJS, PostGIS, GeoServer and GDAL
+  http://2013.foss4g.org/conf/programme/presentations/180/
+
+Migration to Open Source GIS of Adour-Garonne Water Agency, France
+  PostGIS, MapServer, QGIS, OpenLayers, GDAL
+  http://osgeo-fr.github.io/frog2013/presentations/thematique/03-Haubourg/Presentation_FROG_10062013.pdf
+
+WikiWatershed, USA
+  A cybercollaboratory for watershed protection, analysis, education and management. WikiWatershed® is a suite of web-based tools designed to assist citizens in managing water resources.
+  GeoTrellis, GeoServer, PostGIS
+  http://app.wikiwatershed.org/stroudfx/bin-debug/Main.swf
+
+SharedGeo's GLRI Collaborative Mapping Project, USA
+  The Great Lakes Restoration Initiative (GLRI) Collaborative Mapping project provides an open-source, online geospatial viewing system. This system catalogs and serves imagery data that can be accessed through in an online map, by direct download or through web services.
+  GeoNetworks, GeoMoose
+  https://hub.sharedgeo.org/projects/GLRI/
+
+Water Quality GeoDatabase for Agriculture, Canada
+  Readings of contaminants in soil and water with 15 minute intervals, from year 2000 to present
+  PostGIS, MapServer
+
+GEOSS interoperability for Weather, Ocean and Water, Europe
+  SOS profile and an implementation of WaterML, a standard for exchanging hydrology-related observation data.
+  52°North SOS
+  http://www.geowow.eu/
+
+
+Specific software & plugins:
+
+Modflow
+  Is the USGS's three-dimensional (3D) finite-difference groundwater model
+  http://water.usgs.gov/ogw/modflow/
+
+MT3DMSA
+  Modular 3-D Multi-Species Transport Model for Simulation of Advection, Dispersion, and Chemical Reactions of Contaminants in Groundwater System U.S. Army Corps of Engineers Waterways Experiment Station under the Strategic Environmental Research and Development Program (SERDP).
+  http://hydro.geo.ua.edu/mt3d/
+
+MOHID
+  Is a three-dimensional water modelling system, developed by MARETEC (Marine and Environmental Technology Research Center) at Instituto Superior Técnico (IST) which belongs to Technical University of Lisbon.
+  http://www.mohid.com/
+
+HydroDesktop
+  Is a free and open source GIS enabled desktop application that helps you search for, download, visualize, and analyze hydrologic and climate data registered with the CUAHSI Hydrologic Information System.
+  http://hydrodesktop.codeplex.com/
+
+The CUAHSI Hydrologic Information System (HIS)
+  Is an internet-based system for sharing hydrologic data. It is comprised of databases and servers, connected through web services, to client applications, allowing for the publication, discovery and access of data.
+  http://his.cuahsi.org/
+
+ILWIS software
+  Is freely available ('as-is' and free of charge) as open source software (binaries and source code) under the 52°North initiative (GPL license)
+  http://www.ilwis.org/
+
+JGrass – Hydrological Modeling in Java
+  JGrass is a free open source GIS based on the uDig framework, built and maintained by HydroloGIS in collaboration with CUDAM
+  http://udig.refractions.net/gallery/jgrass/
+
+GISWater
+  Giswater connects water simulation programs to a powerful GIS interface, and lays the foundation for full management of water supply systems, sewerage systems, drainage networks and rivers using Web Map Services (WMS), System Control and Data Acquisition (SCADA) or Customer Relationship Management Systems (CRMS).
+  http://www.giswater.org/
+
+INPcom
+  INPcom is an open software project to comunicate EPANET and EPASWMM with any geospatial database
+  The project, which began as an extension of gvSIG, exporting data to EPANET and EPA SWMM, has evolutioned to the database ecosystem giving it much more versatility, efficiency and power.
+  http://www.tecnicsassociats.com/web/en/inpcom
+
+Ghydraulics
+  QGIS plugin for EPANET that allows to analyze water supply networks using EPANET
+  http://epanet.de/ghydraulics/index.html.en
+
+INPpins
+  Mapinfo plugin for EPASWMM designed to integrate Storm Water Management Model (SWMM) with Geographic Information Systems (GIS)
+  https://sites.google.com/site/inppins/guide
+
+Nettools plugins for uDig
+  The Nettools plugins enable uDig for analyses of both water management systems and storm water networks.
+  https://bitbucket.org/moovida/nettools/wiki/Home
